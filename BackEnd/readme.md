@@ -1,3 +1,6 @@
+# Screen shot
+![image](https://github.com/HikariNoRyu/ReactFastAPI/assets/88818748/31585c27-5e7a-44d1-8acb-f19d7b5e64ff)
+
 # Important Notes
 
 Please make sure you have install the requirements before you run the server.
